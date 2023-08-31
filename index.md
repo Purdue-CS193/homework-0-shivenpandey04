@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+You can make text **bold** and _italic_.
 
 [Link](url) and ![Image](src)
 ```
